@@ -1,0 +1,1 @@
+{"status":"active","msisdn":"2025550100","firstName":"Example","autoRecharge":false,"wallet":1200,"plan":{"id":7000001,"months":12,"exp":1900000000,"endOfCycle":1890000000},"email":"omitted@example.invalid","token":"must-not-appear"}

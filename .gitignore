@@ -1,0 +1,9 @@
+/target
+/result
+/result-*
+.env
+*.har
+*.network-request
+*.network-response
+/session*.json
+/captures/
